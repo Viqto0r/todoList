@@ -1,6 +1,6 @@
 {
-  "short_name": "TODO List",
-  "name": "Create React App Sample",
+  "short_name": "ToDo List",
+  "name": "ToDo List",
   "icons": [
     {
       "src": "favicon.ico",
